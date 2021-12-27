@@ -1,6 +1,6 @@
 # Weather_App
 
-I have used weather API for fetching the data from the Open Weather Map website by generating an API key, and then create a configuration file to store the key. 
+I have used weather API for fetching the data from the Open Weather Map website.
 The GUI app will tell the current weather of a particular city along with temperature details like Wind,Pressure,Humidity and Description.
 
 Modules required:
